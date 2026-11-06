@@ -18,10 +18,8 @@ networkPro-lab1-6714951018/
 │   ├── udp_server.py
 │   ├── udp_client.py
 │   ├── Dockerfile.server
-│   └── Dockerfile.client
-└── screenshots/
-    ├── tcp_result.png
-    └── udp_result.png
+└── └── Dockerfile.client
+
 ```
 
 ## วิธีรันด้วย Python
@@ -84,11 +82,13 @@ docker network rm echo_network
 
 ### TCP
 
-![TCP result](screenshots/tcp_result.png)
+<img width="1383" height="567" alt="tcp_result" src="https://github.com/user-attachments/assets/51fb7777-3a1f-4d80-80ec-b6c26fa78174" />
+
 
 ### UDP
 
-![UDP result](screenshots/udp_result.png)
+<img width="1325" height="97" alt="udp_result" src="https://github.com/user-attachments/assets/15a8ba80-ec54-49b9-8f61-7088e067fb86" />
+
 
 ## แหล่งอ้างอิง
 
